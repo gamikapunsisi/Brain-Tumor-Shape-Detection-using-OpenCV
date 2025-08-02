@@ -19,7 +19,6 @@ It uses image processing techniques such as thresholding, contour detection, and
 
 Original MRI Image → Detected Tumor Shape
 
-![Brain Tumor Detection](images/sample_output.png)
+![Brain Tumor Detection](sample_output.png)
 
-*(Replace `images/sample_output.png` with your actual image path in your repo)*
 
